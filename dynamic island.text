@@ -26,6 +26,7 @@ meaning regardless of whether they appear in singular or in plural.
 Definitions  
 -----------
 
+
 For the purposes of this Privacy Policy:
 
   * Account means a unique account created for You to access our Service or
@@ -72,6 +73,16 @@ Collecting and Using Your Personal Data
 
 Types of Data Collected  
 -----------------------
+
+
+AccessibilityService API
+~~~~~~~~~~~~~~~~~~~~~~~~
+WE are using AccessibilityService for showing the dynamic island effects on the notch of the mobile.
+
+Reading Notifications
+~~~~~~~~~~~~~~~~~~~~~~~~
+WE are read  Notifications for showing the dynamic island notifications on the notch of the mobile 
+
 
 Personal Data  
 ~~~~~~~~~~~~~
